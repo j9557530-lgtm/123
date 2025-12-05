@@ -1,0 +1,21 @@
+{
+  "short_name": "数学大冒险",
+  "name": "Math Adventure: Magic Forest",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3965/3965108.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3965/3965108.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f0fdf4",
+  "background_color": "#f0fdf4",
+  "orientation": "portrait"
+}
